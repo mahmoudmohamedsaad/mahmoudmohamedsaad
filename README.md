@@ -1,16 +1,29 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**mahmoudmohamedsaad/mahmoudmohamedsaad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a ui/ux designer with figma & frontend developer with experience in React, Redux, and CSS.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML
+- CSS
+- JavaScript
+- React
+- Redux
+
+## Projects
+
+### Project 1
+
+A responsive website built with React and Redux.
+
+[Link](https://example.com)
+
+### Project 2
+
+A CSS animation project.
+
+[Link](https://example.com)
+
+## Contact
+
+You can reach me at [email@example.com](mahmoudshehata175@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/mahmoud-saad-b775591a0).
