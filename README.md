@@ -1,21 +1,31 @@
-# Hi there 👋
+### Hi there 👋
+* 👂 My name is ...
+* 👩 Pronouns: ...
+* 🔭 I’m currently working on ...
+* 🌱 I’m currently learning ...
+* 🤝 I’m looking to collaborate on ...
+* 🤔 I’m looking for help with ...
+* 💬 Ask me about ...
+* 📫 How to reach me: ...
+* ❤️ I love ...
+* ⚡ Fun fact: ...
+  
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
+<a href="https://www.instagram.com/thepiyushmalhotra/">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+</a>
 
-I'm a ui/ux designer with figma & frontend developer with experience in React, Redux, and CSS.
+```yaml
+* YOUR TEXT GOES HERE *
+```
 
-## Skills
+<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
+</p>
 
-- HTML
-- CSS
-- JavaScript
-- React
-
-## Projects
-
-- [Project 1](https://github.com/user/project1)
-- [Project 2](https://github.com/user/project2)
-
-## Social Media
-
-[![Behance](https://github.com/user/behance.png)](https://www.behance.net/mahmoudshehata13)
-[![LinkedIn](https://github.com/user/linkedin.png)]([https://www.linkedin.com/in/user/](https://www.linkedin.com/in/mahmoud-saad-b775591a0))
-[![Gmail](https://github.com/user/gmail.png)](mahmoudshehata175@gmail.com)
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
