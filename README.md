@@ -8,22 +8,14 @@ I'm a ui/ux designer with figma & frontend developer with experience in React, R
 - CSS
 - JavaScript
 - React
-- Redux
 
 ## Projects
 
-### Project 1
+- [Project 1](https://github.com/user/project1)
+- [Project 2](https://github.com/user/project2)
 
-A responsive website built with React and Redux.
+## Social Media
 
-[Link](https://example.com)
-
-### Project 2
-
-A CSS animation project.
-
-[Link](https://example.com)
-
-## Contact
-
-You can reach me at [email](mahmoudshehata175@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/mahmoud-saad-b775591a0).
+[![Behance](https://github.com/user/behance.png)](https://www.behance.net/mahmoudshehata13)
+[![LinkedIn](https://github.com/user/linkedin.png)]([https://www.linkedin.com/in/user/](https://www.linkedin.com/in/mahmoud-saad-b775591a0))
+[![Gmail](https://github.com/user/gmail.png)](mahmoudshehata175@gmail.com)
