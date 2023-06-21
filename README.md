@@ -26,4 +26,4 @@ A CSS animation project.
 
 ## Contact
 
-You can reach me at [email@example.com](mahmoudshehata175@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/mahmoud-saad-b775591a0).
+You can reach me at [email](mahmoudshehata175@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/mahmoud-saad-b775591a0).
